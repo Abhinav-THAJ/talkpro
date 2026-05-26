@@ -5,7 +5,6 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Courses from "@/components/Courses";
 import WhyChoose from "@/components/WhyChoose";
-import Transformation from "@/components/Transformation";
 import Process from "@/components/Process";
 import Classes from "@/components/Classes";
 import Testimonials from "@/components/Testimonials";

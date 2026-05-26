@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Send, MapPin, Phone, Camera, MessageSquare } from "lucide-react";
+import { Send, MapPin, Camera, MessageSquare } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function Contact() {

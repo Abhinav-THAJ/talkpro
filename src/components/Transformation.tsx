@@ -25,8 +25,7 @@ export default function Transformation() {
           end: () => `+=${scrollRef.current?.scrollWidth || 2000}`,
           pin: true,
           scrub: 1,
-          invalidateOnRefresh: true,
-          paddingBottom: 120,
+          invalidateOnRefresh: true
         }
       });
     }, containerRef);
